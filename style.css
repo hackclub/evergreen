@@ -197,8 +197,7 @@ h5{
 }
 
 .headers-two a:link{
-	color: black;
-	list-style-type: none;
+	color: white;
 }
 
 .headers-two a:visited{
@@ -207,6 +206,7 @@ h5{
 
 .headers-two a:hover{
 	color: green;
+	text-decoration: none;
 }
 
 .events-decor{
