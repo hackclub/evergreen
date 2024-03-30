@@ -194,6 +194,10 @@ h5{
 	color: white;
 }
 
+.events-decor img{
+	object-fit: contain;
+}
+
 .faq{
 	color: black;
 	text-align: center;
@@ -284,6 +288,10 @@ footer{
 	.headers-two{
 		width: 100%;
 		height: 92%;
+	}
+
+	.events-decor{
+		border-radius: 75px;
 	}
 
 	section[data-section-id="6310690285fdc040c4e8e871"] .summary-item {
