@@ -8,7 +8,6 @@ body{
 	color: black;
 	font-weight: 500;
 	text-align: center;
-
 }
 
 /* Vertical Navigation bar */
@@ -18,7 +17,6 @@ nav ul{
   text-align: center;
   margin: 0 auto;
   font-weight: bold;
-
 }
 
 nav li{
@@ -56,16 +54,6 @@ main{
 	margin: 20px auto;
 }
 
-.carousel-item p{
-	color: white;
-	text-align: center;
-	padding-top: 10px;  
-}
-
-.carousel-item img {
-	object-fit: contain;
-}
-
 .logo {
 	text-align: center;
 	padding-bottom: 15px;
@@ -92,12 +80,12 @@ h5{
 	color: white;
 	text-align: center;
 	list-style-type: none;
-  text-align: center;
-  margin: 0 auto;
-  font-weight: bold;
-  display: inline;
-  padding-left: 10px;
-  padding-right: 10px;
+  	text-align: center;
+ 	margin: 0 auto;
+  	font-weight: bold;
+  	display: inline;
+  	padding-left: 10px;
+  	padding-right: 10px;
 }
 
 .socials a:link{
@@ -110,14 +98,6 @@ h5{
 
 .socials a:hover{
 	color: grey;
-}
-
-#carousel-control-prev{
-	text-color: white;
-}
-
-#carousel-control-next{
-	text-color: white;
 }
 
 .headers-dos{
@@ -193,7 +173,6 @@ h5{
 	padding-right: 25px;
 	padding-bottom: 30px;
 	padding-top: 10px;
-
 }
 
 .headers-two a:link{
@@ -212,6 +191,7 @@ h5{
 .events-decor{
 	border: solid white 3px;
 	margin-bottom: 20px;
+	color: white;
 }
 
 .faq{
@@ -247,28 +227,6 @@ h5{
 	height: 150px;
 	padding-top: 10px;
 	margin-bottom: 45px;
-}
-
-.carousel-control-prev{
-	position: absolute;
-	top: 0;
-	bottom: 0;
-	left: 0;
-	width: 4%;
-}
-
-.carousel-control-next{
-	position: absolute;
-	top: 0;
-	bottom: 0;
-	right: 0;
-	width: 4%;
-} 
-
-.carousel .item {
-  min-height: 330px;
-  text-align: center;
-  overflow: hidden;
 }
 
 .register-button{
@@ -315,13 +273,6 @@ footer{
 		width: 100%;
 		height: 100%;
 	}
-	.carousel-inner {
-    position: relative;
-    width: 100%;
-    overflow: hidden;
-    display: inline-flex;
-    height: 320px;
-  }
 }
 
 /* CSS for Smartphones */
@@ -336,23 +287,11 @@ footer{
 	}
 
 	section[data-section-id="6310690285fdc040c4e8e871"] .summary-item {
-    width: 101.5% !important;
-  }
+    		width: 101.5% !important;
+ 	}
 
-  section[data-section-id="6310690285fdc040c4e8e871"] .summary-item .img-wrapper img {
-    width: 100% !important;
-    height: 100% !important;
-  } 
-}
-
-/*	.carousel-inner {
-    position: relative;
-    display: inline-block;
-    overflow: hidden;
-    display: inline-flex;
-    height: 320px;
-    max-width: 100%;
-    height: 100%;
-  } */
-
+ 	section[data-section-id="6310690285fdc040c4e8e871"] .summary-item .img-wrapper img {
+    		width: 100% !important;
+    		height: 100% !important;
+  	} 
 }
