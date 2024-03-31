@@ -191,7 +191,8 @@ h5{
 .events-decor{
 	border: solid white 3px;
 	margin-bottom: 20px;
-	color: white;
+	color: #065C15;
+	font-weight: bold;
 }
 
 .events-decor img{
