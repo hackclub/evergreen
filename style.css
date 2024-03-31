@@ -196,6 +196,7 @@ h5{
 
 .events-decor img{
 	object-fit: contain;
+	background-size: cover;
 }
 
 .faq{
