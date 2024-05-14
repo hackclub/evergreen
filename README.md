@@ -63,7 +63,7 @@ In this workshop, students learned the fundamentals of 3D modeling in Spline, a 
 
 After the hackathon, we had an amazing dinner at the Chihuly Garden and Glass Museum! In attendance were 19 STEM professionals, 13 Hack Clubbers, 12 Renton high schoolers, and 2 staff members.
 
-One of the most memorable moments from the dinner is when we heard a shocking statistic: men tend to apply for jobs when they only have 50% of the requirements, whereas women typically apply when they have about 90% of requirements! This is the kind of self-doubt and feeling of impostor syndrome can emerge from being a minority in tech.
+One of the most memorable moments from the dinner is when we heard a shocking statistic: men tend to apply for jobs when they only have 50% of the requirements, whereas women typically apply when they have about 90% of requirements! This is the kind of self-doubt and feeling of impostor syndrome that can emerge from being a minority in tech.
 
 ## Photography 📸
-Want to see pictures taken by our very own team member Alex? Check them out here: https://drive.google.com/drive/u/0/folders/13TOTVXlu0y6nWqkK-_8nYyG2yHrNrvUQ
+Want to see pictures taken by our team member [@alexdevz](https://github.com/alexdevz)? Check them out here: https://drive.google.com/drive/u/0/folders/13TOTVXlu0y6nWqkK-_8nYyG2yHrNrvUQ
