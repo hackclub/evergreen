@@ -44,6 +44,8 @@ Evergreen had 3 different workshop tracks: [Blot](https://blot.hackclub.dev), [O
 
 #### Blot
 In this workshop, students learned JavaScript and created generative art!
+Thank you to [@Michelle](https://hackclub.slack.com/team/U06D7NTBDCY) and [@Sahiti](https://hackclub.slack.com/team/U03RU99SGKA) from [Blossom](https://blossom.hackclub.com) for helping us prep for the wokrshop and prepare the slides :) 
+
 
 ![C3019T01](https://github.com/FireBreather65/evergreen-fork/assets/76709163/8135d3d7-c8ae-48ee-a1e2-8f1114ae51d8)
 
