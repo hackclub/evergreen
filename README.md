@@ -18,6 +18,7 @@ Like past Days of Service events such as Horizon, Alpine, Think Like a Programme
 | Username    | Role |
 | -------- | ------- |
 | [@FireBreather65](https://github.com/FireBreather65) | Lead Organizer |
+| [@nila](https://hackclub.slack.com/team/U01FAVARYH1) | Lead Organizer |
 
 ## Our budget 💵
 Evergreen started out with an exact budget of $10,000. Here is an approximate breakdown:
