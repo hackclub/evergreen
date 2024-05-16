@@ -4,7 +4,7 @@
 
 Evergreen was Hack Club's 9th [Day of Service](https://daysofservice.hackclub.com/), an initiative started to bridge the gender gap in technology. We organized a day of coding in partnership with a local school district, the [Renton School District](https://www.rentonschools.us/)!
 
-On May 3rd, 2024, a group of Hack Clubbers gathered to host a 1-day hackathon for local students. By the end of the day, we had a variety of projects, such as circuit board designs, 3D modeling mockups, and even generative art that we drew with a robot arm! 🤖
+On May 3rd, 2024, our team of 12 Hack Clubbers gathered to host a 1-day hackathon for local students. By the end of the day, we had a variety of projects, such as circuit board designs, 3D modeling mockups, and even generative art that we drew with a robot arm! 🤖🦾
 
 ***This repo is meant to serve as a point of reference for anyone wanting to organize their own Day of Service! If you have any other questions, reach out to [@FireBreather65](https://hackclub.slack.com/team/U05J46STSS2) on Slack. You can also view our open-source planning in the Hack Club Slack #evergreen channel!***
 
