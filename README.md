@@ -53,7 +53,7 @@ Thank you to [@Michelle](https://hackclub.slack.com/team/U06D7NTBDCY) and [@Sahi
 #### OnBoard
 In this workshop, students learned the fundamentals of circuit board design in EasyEDA with Hack Club's OnBoard program!
 
-![C3085T01](https://github.com/hackclub/evergreen/assets/76709163/9ad3a907-3d18-4d2c-bb7c-599156db0575)
+![C3042T01](https://github.com/FireBreather65/evergreen/assets/76709163/fc4138d6-2802-4894-bcad-b4f89b660dfb)
 
 #### 3D Village
 In this workshop, students learned the fundamentals of 3D modeling in Spline, a web-based 3D design tool!
