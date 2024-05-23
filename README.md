@@ -20,7 +20,16 @@ Like past Days of Service events such as Horizon, Alpine, Think Like a Programme
 | -------- | ------- |
 | [@FireBreather65](https://github.com/FireBreather65) | Lead Organizer |
 | [@nila](https://hackclub.slack.com/team/U01FAVARYH1) | Lead Organizer |
+| [@abbyfischler](https://github.com/abbyfischler) | Lead Dinner Organizer |
+| [@eliasangelss](https://github.com/eliasangelss) | Blot Team Lead |
+| [@vvireless](https://github.com/vvireless) | PCB Team Lead |
 | [@rcyaon](https://github.com/rcyaon) | Blot Team Member |
+| [@alexdevz](https://github.com/alexdevz) | Organizer & Storytelling |
+| Lorelai Fosselman | 3D Village Team Lead |
+| Saahiti Mamidipaka | 3D Village Team Member |
+| Alena Nguyen | OnBoard Team Member |
+| Helen Fu | OnBoard Team Member |
+| Deeksha Dachepalli | 3D Village Team Member |
 
 ## Our budget 💵
 Evergreen started out with an exact budget of $8,000. Here is an approximate breakdown:
@@ -28,7 +37,7 @@ Evergreen started out with an exact budget of $8,000. Here is an approximate bre
 | Item    | Amount ($) |
 | -------- | ------- |
 | 🧳 Travel Stipends  | $2500  |
-| 🏨 Hotel  | $3000  |
+| 🏨 Hotel  | $3100  |
 | 🧑🏾‍💻 Hackathon: Swag, Decorations, Workshops | $650 |
 | 🎈 Weekend expenses | $750  |
 
@@ -74,4 +83,3 @@ One of the most memorable moments from the dinner is when we heard a shocking st
 Want to see pictures taken by our team member [@alexdevz](https://github.com/alexdevz)? Check them out here: https://drive.google.com/drive/u/0/folders/13TOTVXlu0y6nWqkK-_8nYyG2yHrNrvUQ
 
 You can also check out a reel from our event created by [@Deetschoe](https://github.com/Deetschoe) on Instagram! https://www.instagram.com/p/C61rssvgMOj/
-
